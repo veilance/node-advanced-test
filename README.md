@@ -5,6 +5,8 @@ App to read text and create summary reports in console using Node.js
 
 ### Final Product
 
+!["Console"](https://github.com/veilance/node-advanced-test/blob/master/docs/node-advanced-test.gif?raw=true)
+
 ## Built With
 
 Node.js
