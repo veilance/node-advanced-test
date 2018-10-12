@@ -1,0 +1,15 @@
+Node-Advanced-Test
+=====================
+
+App to read text and create summary reports in console using Node.js
+
+### Final Product
+
+## Built With
+
+Node.js
+
+## Getting Started
+
+1. Clone this repository
+2. To run the app in console an example would be to run: ``ping 1.1.1.1  >> pingCloudflare.log | tail -f pingCloudflare.log | node node-app.js``
