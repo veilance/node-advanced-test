@@ -1,0 +1,19 @@
+{
+  "name": "cto-assignment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node-app.js",
+  "scripts": {
+    "test": "node test/runTests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/veilance/node-advanced-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/veilance/node-advanced-test/issues"
+  },
+  "homepage": "https://github.com/veilance/node-advanced-test#readme"
+}
