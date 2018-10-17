@@ -4,7 +4,7 @@
   "description": "",
   "main": "node-app.js",
   "scripts": {
-    "test": "node test/runTests.js"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/veilance/node-advanced-test/issues"
   },
-  "homepage": "https://github.com/veilance/node-advanced-test#readme"
+  "homepage": "https://github.com/veilance/node-advanced-test#readme",
+  "devDependencies": {
+    "streamtest": "^1.2.4"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^5.2.0"
+  }
 }
